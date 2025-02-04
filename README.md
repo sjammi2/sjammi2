@@ -1,8 +1,12 @@
-# Hi :) ! I'm Shreyas Jammi 
-- UIUC Physics
+# Hi :) I'm Shreyas Jammi ! 
+- Physics @ UIUC
 - Research Developer @ National Center of Supercomputing Applications
-- Numerical Relativity @ IlliniRelativity (dynamic simulations of Black Holes and Neutron Stars to study Observable Signatures like gravitational waves and gamma ray bursts)
-- Linkedin: [@@sjammi2](https://www.linkedin.com/in/sjammi2/)
+- Numerical Relativity @ IlliniRelativity 
+    - dynamic numerical simulations on high performance computing systems of Black Holes and Neutron Stars to study observable signatures like gravitational waves and gamma ray bursts
+    - Movies, Papers, and Visualizations: [@TsokarosResearch](https://tsokaros.github.io/movies/)
+- Research Experience in Scientific Computing, Machine Learning Engineering, and Data Science
+    - Resume
+- Linkedin: [@sjammi2](https://www.linkedin.com/in/sjammi2/)
 
 <!--
 **sjammi2/sjammi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
