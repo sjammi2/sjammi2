@@ -4,9 +4,18 @@
 - Numerical Relativity @ IlliniRelativity 
     - dynamic numerical simulations on high performance computing systems of Black Holes and Neutron Stars to study observable signatures like gravitational waves and gamma ray bursts
     - Movies, Papers, and Visualizations: [@TsokarosResearch](https://tsokaros.github.io/movies/)
-- Research Experience in Scientific Computing, Machine Learning Engineering, and Data Science
+- Experience in Scientific Computing, Machine Learning Engineering, and Data Science
     - Resume
+    - Always looking for more opportunities in this space! My availibility to meet: [here :)](https://calendly.com/shreyasjammi/30min)
 - Linkedin: [@sjammi2](https://www.linkedin.com/in/sjammi2/)
+- Website:
+
+
+
+
+
+
+
 
 <!--
 **sjammi2/sjammi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
