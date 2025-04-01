@@ -5,7 +5,7 @@
     - dynamic numerical simulations on high performance computing systems of Black Holes and Neutron Stars to study observable signatures like gravitational waves and gamma ray bursts
     - Movies, Papers, and Visualizations: [@TsokarosResearch](https://tsokaros.github.io/movies/)
 - Experience in Scientific Computing, Machine Learning Engineering, and Data Science
-    - Resume
+    - Resume can be found [here](google.com)
     - Always looking for more opportunities in this space! My availibility to meet: [here :)](https://calendly.com/shreyasjammi/30min)
 - Linkedin: [@sjammi2](https://www.linkedin.com/in/sjammi2/)
 - Website:
